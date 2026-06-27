@@ -1,0 +1,13 @@
+id,api_fixture_id,home_team,away_team,home_logo,away_logo,kickoff_utc,competition,status,home_goals,away_goals,scores_updated
+1,1,panama ,england,https://ssl.gstatic.com/onebox/media/sports/logos/optimized/JIn8OwxL6KFFiYrKGnL2RQ_96x96.png,https://ssl.gstatic.com/onebox/media/sports/logos/optimized/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png,6/27/2026 22:00,World Cup 2026,scheduled,,,FALSE
+2,2,croatia,ghana,,,6/27/2026 22:00,World Cup 2026,scheduled,,,FALSE
+3,3,colombia,Portugal,,,6/27/2026 0:30,World Cup 2026,scheduled,,,FALSE
+4,4,congo,uzbakistan,,,6/27/2026 0:30,World Cup 2026,scheduled,,,FALSE
+5,5,algeria,austria,,,6/28/2026 3:00,World Cup 2026,scheduled,,,FALSE
+6,6,jordan,argentina,,,6/28/2026 3:00,World Cup 2026,scheduled,,,FALSE
+7,7,,,,,,World Cup 2026,scheduled,,,FALSE
+8,8,,,,,,World Cup 2026,scheduled,,,FALSE
+9,9,,,,,,World Cup 2026,scheduled,,,FALSE
+10,10,,,,,,World Cup 2026,scheduled,,,FALSE
+11,11,,,,,,World Cup 2026,scheduled,,,FALSE
+12,12,,,,,,World Cup 2026,scheduled,,,FALSE

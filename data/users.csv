@@ -1,0 +1,5 @@
+id,username,password_hash,is_admin,imported_points,created_at
+1,admin,$2b$12$oO4PvGrMYYxmvOBmdByGc.71JGbIOtWFC3fxDSyP7NNw6SHErExcu,True,0,2026-06-27T18:48:27.420800
+2,kader,$2b$12$8ASioVCnunPePpU1l2rt1.PaZhrj2n0n4RjjVLzTCqLxTOwu2V2YC,False,0,2026-06-27T20:02:39.843100
+3,seif,$2b$12$DpzapDmXS23kf8FtJviph.7PwC1NR.ZWNQ0s3Sw0XzBeAcXH2jCCi,False,0,2026-06-27T20:02:58.311644
+4,yahia,$2b$12$M9Q4ZoSE6IneHVa7tVC6H.02xMkeevVymMFC1D0dxUuIALW/4VB/a,True,0,2026-06-27T20:32:17.787369
